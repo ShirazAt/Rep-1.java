@@ -13,10 +13,10 @@ class Main {
       case 'A': case 'B': case 'C':
         System.out.println("good");
       case 'D':
-        System.out.println("You suck");
+        System.out.println("bad");
 
       default:
-        System.out.println("boohoo");
+        System.out.println("incorrect");
     }
   }
 }
